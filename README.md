@@ -35,3 +35,4 @@ Pressing the button once again ought to bring about state 1.
 
 **Notes:**
 - I am using another LED (blue) to turn on for 500ms when the button is pressed, to verify (visually) that it has been pressed
+- This is part of a Laboratory activity made for Wireless Information Neetworking (Fleming College), IOT class semester 4 (Winter 2024)

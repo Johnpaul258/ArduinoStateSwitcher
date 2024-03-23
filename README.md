@@ -1,9 +1,9 @@
 # ArduinoStateSwitcher
 Press a button to select one of three states with a push button.
 
-State 1: When the button is pressed, the temperature and humidity readings from the DHT sensor should be shown concurrently along with the red LED glowing.
-State 2: The green LED ought to light if you press the button once more. In this condition, the temperature and humidity are shown if an item is four inches or less from the ultrasonic sensor.
-State 3: The yellow LED ought to light up if you press the button once more. Replay need to start in this state if the motion sensor detects movement.
+- State 1: When the button is pressed, the temperature and humidity readings from the DHT sensor should be shown concurrently along with the red LED glowing.
+- State 2: The green LED ought to light if you press the button once more. In this condition, the temperature and humidity are shown if an item is four inches or less from the ultrasonic sensor.
+- State 3: The yellow LED ought to light up if you press the button once more. Replay need to start in this state if the motion sensor detects movement.
 
 Pressing the button once again ought to bring about state 1.
 
